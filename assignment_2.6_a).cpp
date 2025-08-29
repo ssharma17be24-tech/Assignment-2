@@ -22,8 +22,9 @@ int main() {
 
     cout << "\nTranspose in triplet form:\n";
     for (int i = 0; i < n; i++) {
-        cout << trans[i][0] << " " << trans[i][1] << " " << trans[i][2] << endl;
+        cout<<trans[i][0]<< trans[i][1]<< trans[i][2]<<endl;
     }
 
     return 0;
 }
+
